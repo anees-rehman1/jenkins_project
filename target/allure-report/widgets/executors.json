@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://192.168.56.1:8080/","buildOrder":3,"buildName":"selenium_python_test #3","buildUrl":"http://192.168.56.1:8080/job/selenium_python_test/3/","reportName":"AllureReport","reportUrl":"http://192.168.56.1:8080/job/selenium_python_test/3/allure"}]
